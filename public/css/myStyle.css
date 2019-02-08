@@ -1,0 +1,13 @@
+
+
+.has-error .form-control {
+    border-color: #dd4b39;
+    box-shadow: none;
+}
+
+.help-block {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color : #dd4b39;
+}
